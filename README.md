@@ -1,4 +1,4 @@
-![изображение](https://github.com/user-attachments/assets/80da7d82-2ed1-4f9d-b670-3faf1bc2f6e5)# NIS-Computer-Science-11-12-
+# NIS-Computer-Science-11-12-
 Удобный конспект для подготовки к Мэскам по Computer Science 11-12 класс + Пробники.
 Конспект создан по целям на мэск, тобишь только нужное для мэска.
 
@@ -10,8 +10,8 @@
   рекомендую глянуть хотя бы один гайд - https://youtu.be/Tae0BwhenRQ?si=YPLu4xHGRMMtWGrC.
   Качаем Obsidian с официального сайта - https://obsidian.md/.
 ### 2.0 - Папка Инфа
-  Качаем zip-папку "Инфа" и разархивируем его. 
-  Дальше заходим в Obsidian, нажимаем на кнопку "Browse". Выбираем папку "Инфа"
+  Качаем zip-папку "CS only" и разархивируем его. 
+  Дальше заходим в Obsidian, нажимаем на кнопку "Browse". Выбираем папку "CS only"
   ![3-20](https://github.com/user-attachments/assets/15605954-ad56-494d-8190-71b619dbbbee)
   Во всплывающем окне доверяйте "Vault's author(мне)"
   Готово. Пользуйтесь с удовольствием!
